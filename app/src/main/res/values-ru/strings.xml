@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">posidon launcher</string>
     <string name="aboutbtn">О приложении</string>
-    <string name="walls">Фоны экрана</string>
+    <string name="walls">Обои</string>
 
     <string name="appLabels">Названия приложений</string>
     <string name="icon_pack">Тема иконок</string>
     <string name="iconSize">Размер иконок</string>
-    <string name="columns">Столбы</string>
+    <string name="columns">Столбцы</string>
 
     <string name="settings_title">Персонализация</string>
     <string name="settings_title_drawer">Список приложений</string>
@@ -26,12 +26,12 @@
 
     <string name="defaultdateformat">d MMM | cccc</string>
     <string name="settingsdateformat">Время</string>
-    <string name="searchbarhint">Поиск…</string>
+    <string name="searchbarhint">Поиск</string>
     <string name="feed_sources">Источники</string>
     <string name="example_feed_url">habr.com/rss</string>
     <string name="slogan">Minimal, feature-rich, different.</string>
     <string name="developer">Leo Shneyderis</string>
-    <string name="settingshidestatus">Прятать statusbar</string>
+    <string name="settingshidestatus">Скрыть статусбар</string>
     <string name="spacing">Расстояние</string>
     <string name="permission_storage_description">Предоставьте доступ к хранилищу для доступа к обоям (для размытия в списке приложений)</string>
     <string name="storage_access">Доступ к хранилищу</string>
@@ -94,9 +94,9 @@
     <string name="in_dock">В доке</string>
     <string name="in_drawer">В списке приложений</string>
     <string name="duration">Продолжительность</string>
-    <string name="haptic_feedback">Haptic feedback</string>
+    <string name="haptic_feedback">Вибрация</string>
     <string name="minimal_statusbar">Минимальный statusbar</string>
-    <string name="statusbar">Statusbar</string>
+    <string name="statusbar">Статусбар</string>
     <string name="notifications">Уведомления</string>
     <string name="text_shadow">Тень под текстом</string>
     <string name="ubuntu">Ubuntu</string>
@@ -132,7 +132,7 @@
     <string name="grant">Разрешить</string>
     <string name="background_type">Тип фона</string>
     <string name="max_image_width">Max Ширина Изображения</string>
-    <string name="scrollbar">Scrollbar</string>
+    <string name="scrollbar">Полоса прокрутки</string>
     <string name="grouping">Grouping</string>
     <string name="recolor_white_bgs">Tint white backgrounds</string>
     <string name="oops">Упс!</string>
@@ -147,7 +147,7 @@
     <string name="restore">Restore</string>
     <string name="reply">Reply</string>
     <string name="show_below_apps">Show below apps</string>
-    <string name="cards">Cards</string>
+    <string name="cards">Карточки</string>
     <string name="notification_badges">Notification badges</string>
     <string name="read_method">Reading method</string>
     <string name="console">Console</string>
@@ -155,15 +155,15 @@
     <string name="search_as_home">Search as home</string>
     <string name="gesture_top_overscroll">Top overscroll</string>
     <string name="gesture_bottom_overscroll">Bottom overscroll</string>
-    <string name="pinch">Pinch</string>
-    <string name="long_press">Длинное нажатие</string>
+    <string name="pinch">Щипок</string>
+    <string name="long_press">Долгое нажатие</string>
     <string name="back_button">Кнопка возврата</string>
     <string name="github">Github</string>
     <string name="duckduckgo_results">Результаты DuckDuckGo</string>
     <string name="media_player">Медиа-плейер</string>
     <string name="show_feed_spinner">Show feed spinner</string>
     <string name="stack_results_from_bottom">Stack results from bottom</string>
-    <string name="airplane_mode">Airplane mode</string>
+    <string name="airplane_mode">Режим полета</string>
     <string name="power_usage">Power usage</string>
     <string name="wireless_title"><![CDATA[Wi-Fi & internet]]></string>
     <string name="device_info">Device info</string>
